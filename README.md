@@ -6,6 +6,6 @@ modelo conceitual no BrModelo(não consta aqui), o modelo lógico(MySQL)
 e o modelo físico(SQL), já com inserção de pedido e uma consulta para listar 
 os pedidos em preparação.
 
-No projeto da Vinícola desenvolvi  o diagrama físico(SQL) a partir do 
+No projeto da Vinícola desenvolvi  o modelo físico(SQL) a partir do 
 modelo lógico que foi fornecido.
 
