@@ -1,11 +1,19 @@
-Projetos da disciplina Banco de dados para tecnologia da informação da PUC-PR
-Criação de dois bancos de dados um de uma lanchonete e de uma vinícola.
+# Banco de Dados – PUC-PR
 
-O projeto da lanchonete foi modelado desde o início, com a criação do
-modelo conceitual no BrModelo(não consta aqui), o modelo lógico(MySQL)
-e o modelo físico(SQL), já com inserção de pedido e uma consulta para listar 
-os pedidos em preparação.
+Projetos desenvolvidos na disciplina **Banco de Dados** do curso de **Tecnologia da Informação** da PUC-PR.
 
-No projeto da Vinícola desenvolvi  o modelo físico(SQL) a partir do 
-modelo lógico que foi fornecido.
+## 📁 Projetos
 
+### 🍔 BD_Lanchonete
+- Modelagem conceitual, lógica e física
+- Scripts SQL
+- Consultas de pedidos em preparação
+
+### 🍷 BD_Vinicola
+- Implementação do modelo físico
+- Scripts SQL baseados em modelo lógico fornecido
+
+## 🛠 Tecnologias
+- MySQL
+- SQL
+- BrModelo
